@@ -1,12 +1,15 @@
+package com.josemendes;
+
 import Vetor.Vetor;
 
 public class Main {
     public static void main(String[] args) {
-    int el = 123;
-    System.out.println(el);
 
     Vetor vetor = new Vetor();
-    vetor.adiciona(0,12);
+    vetor.adiciona(12);
+    vetor.adiciona(2);
+    vetor.adiciona(5);
+    vetor.adiciona(1);
     
     System.out.println(vetor.toString());
     }

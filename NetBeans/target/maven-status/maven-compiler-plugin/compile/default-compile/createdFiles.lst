@@ -1,7 +1,9 @@
+com\josemendes\insercao\Insercao.class
+com\josemendes\utilidades\OqueFazer.class
+com\josemendes\selecao\Selecao.class
 com\josemendes\vetor\Vetor.class
-com\josemendes\comparador\Comparador.class
 com\josemendes\vetor\VetorTipado.class
-com\josemendes\criptografia\AlgoritmoDeCesar.class
+com\josemendes\bolha\Bolha.class
 com\josemendes\estruturadados\Estruturadados.class
 com\josemendes\ordenacaoportroca\OrdenacaoPorTroca.class
 com\josemendes\ordenacaoporselecao\OrdenacaoPorSelecao.class

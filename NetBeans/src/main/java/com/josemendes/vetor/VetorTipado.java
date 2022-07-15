@@ -36,6 +36,7 @@ public class VetorTipado<T> {
     public int getNovoTamanho() {
         return novoTamanho;
     }
+    
     public int getTamanho() {
         return this.Vetor.length ;
     }
